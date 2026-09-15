@@ -1,0 +1,8 @@
+transaction_id,transaction_date,store_id,product_id,quantity,unit_price,payment_method
+T1001,2026-09-15,S001,P101,2,12.50,Credit Card
+T1002,2026-09-15,S001,P102,1,25.00,Cash
+T1003,2026-09-15,S002,P103,3,8.75,Debit Card
+T1004,2026-09-15,S002,P101,,12.50,Credit Card
+T1005,2026-09-15,S003,P104,2,-5.00,Cash
+T1006,2026-09-15,S003,P105,1,40.00,
+T1006,2026-09-15,S003,P105,1,40.00,
